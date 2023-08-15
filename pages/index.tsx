@@ -25,7 +25,7 @@ const handleclick=(index:number)=>{
        <li> <img className='logo' src="./images/logo.svg" alt="error" /></li>
         <ul className="px-20  flex space-x-14 content-center">
             <li className="cursor-pointer">Our solutions</li>
-            <li className="cursor-pointer">Partners</li>
+            <li className="cursor-pointer">PartnersAAA</li>
             <li className="cursor-pointer">Ressources</li>
             <li > <button className="rounded-full bg-blue-600 text-white pl-7 pr-7 p-1 ">Ask for a demo</button></li>
             <li className="cursor-pointer  flex flex-row "><BsPersonCircle/>Customer Portal</li>
