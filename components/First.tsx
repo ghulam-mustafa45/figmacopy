@@ -5,7 +5,7 @@ const First = () => {
    <>
    <div className=' ml-52 mt-10 rounded-lg' id='div1'>
                <div className='flex float-left' >
-                  <img className='h-52' src="images/divc1.svg" alt="error" />
+                  <img className='h-52' src="./images/divc1.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-green-100 p-1 '>Up to 50% energy savings</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>BMS - BAS</p>
@@ -15,7 +15,7 @@ const First = () => {
                </div>
 
                <div className='flex float-left  ml-5' >
-                  <img className='h-52' src="images/divc2.svg" alt="error" />
+                  <img className='h-52' src="./images/divc2.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Site and HVAC Installations Audit</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Technical assessment</p>
@@ -25,7 +25,7 @@ const First = () => {
                </div>
                                 
                 <div className='flex float-left ' >
-                  <img className='h-52' src="images/divc3.svg" alt="error" />
+                  <img className='h-52' src="./images/divc3.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1'>Partners</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>A request for your client?</p>
@@ -35,7 +35,7 @@ const First = () => {
                         </div>       
                
                <div className='flex float-left ml-7' >
-                  <img className='h-52' src="images/divc4.svg" alt="error" />
+                  <img className='h-52' src="./images/divc4.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>An open and centralized solution</p>
                         <p className='font-bold p-1 pb-1 text-lg w-60 pt-3'>Setting up a BOS (Building Operating System)</p>
