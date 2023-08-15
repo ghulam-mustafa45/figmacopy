@@ -5,7 +5,7 @@ const Fourth = () => {
     <>
     <div className=' ml-52 mt-10 rounded-lg' id='div1'>
                <div className='flex float-left' >
-                  <img className='h-52' src="images/fourthp1.svg" alt="error" />
+                  <img className='h-52' src="./images/fourthp1.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-green-100 p-1 '>Eco-responsible commitment</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Access badges made from recycled wood</p>
@@ -15,7 +15,7 @@ const Fourth = () => {
                </div>
 
                <div className='flex float-left  ml-5' >
-                  <img className='h-52' src="images/fourthp2.svg" alt="error" />
+                  <img className='h-52' src="./images/fourthp2.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Digitalization of access control</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Access badges on smartphones</p>
@@ -25,7 +25,7 @@ const Fourth = () => {
                </div>
                                 
                 <div className='flex float-left ' >
-                  <img className='h-52' src="images/fourthp3.svg" alt="error" />
+                  <img className='h-52' src="./images/fourthp3.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1'>Safety standards</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Benefit from the highest security standards</p>
@@ -35,7 +35,7 @@ const Fourth = () => {
                         </div>       
                
                <div className='flex float-left ml-7' >
-                  <img className='h-52' src="images/fourthp4.svg" alt="error" />
+                  <img className='h-52' src="./images/fourthp4.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Events</p>
                         <p className='font-bold p-1 pb-1 text-lg w-60 pt-3'>Need attendance tracking for your events?</p>
