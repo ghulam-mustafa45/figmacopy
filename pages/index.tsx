@@ -35,7 +35,7 @@ const handleclick=(index:number)=>{
    
    
 <div>
-      <img src="../images/back1.svg" alt="error" />
+      <img src="images/back1.svg" alt="error" />
       <p className='hd1'>The Brain of Smart Buildings</p>
       <img className="ml-9" src="./images/icons.svg" alt="error" />
       <p className='text1'>The most powerful BMS - BOS to monitor your occupancy and energy consumption</p>
