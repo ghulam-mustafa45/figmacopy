@@ -5,7 +5,7 @@ const Second = () => {
     <>
       <div className=' ml-52 mt-10 rounded-lg' id='div1'>
                <div className='flex float-left' >
-                  <img className='h-52' src="/images/secondp1.svg" alt="error" />
+                  <img className='h-52' src="images/secondp1.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-green-100 p-1 '>A technology tailored to your needs</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Occupancy sensors</p>
@@ -15,7 +15,7 @@ const Second = () => {
                </div>
 
                <div className='flex float-left  ml-5' >
-                  <img className='h-52' src="/images/secondp2.svg" alt="error" />
+                  <img className='h-52' src="images/secondp2.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Site audit </p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>On-site visit</p>
@@ -25,7 +25,7 @@ const Second = () => {
                </div>
                                 
                 <div className='flex float-left ' >
-                  <img className='h-52' src="/images/secondp3.svg" alt="error" />
+                  <img className='h-52' src="images/secondp3.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1'>Save millions of € / $</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Right-Size your real estate portfolio</p>
@@ -35,7 +35,7 @@ const Second = () => {
                         </div>       
                
                <div className='flex float-left ml-7' >
-                  <img className='h-52' src="/images/secondp4.svg" alt="error" />
+                  <img className='h-52' src="images/secondp4.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Une solution ouverte et interfaçable</p>
                         <p className='font-bold p-1 pb-1 text-lg w-60 pt-3'>Integration with your BMS - BAS (RestAPI)</p>

@@ -5,7 +5,7 @@ const Third = () => {
     <>
     <div className=' ml-52 mt-10 rounded-lg' id='div1'>
                <div className='flex float-left' >
-                  <img className='h-52' src="/images/thirdp1.svg" alt="error" />
+                  <img className='h-52' src="images/thirdp1.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-green-100 p-1 '>Up to 30% savings</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Real-world cleanliness</p>
@@ -15,7 +15,7 @@ const Third = () => {
                </div>
 
                <div className='flex float-left  ml-5' >
-                  <img className='h-52' src="/images/thirdp2.svg" alt="error" />
+                  <img className='h-52' src="images/thirdp2.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Adherence to the requirements</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Tracking of passages</p>
@@ -25,7 +25,7 @@ const Third = () => {
                </div>
                                 
                 <div className='flex float-left ' >
-                  <img className='h-52' src="/images/thirdp3.svg" alt="error" />
+                  <img className='h-52' src="images/thirdp3.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1'>Export of essential data</p>
                         <p className='font-bold p-1 pb-1 text-lg w-56 pt-3'>Visualize essential data</p>
@@ -35,7 +35,7 @@ const Third = () => {
                         </div>       
                
                <div className='flex float-left ml-7' >
-                  <img className='h-52' src="/images/thirdp4.svg" alt="error" />
+                  <img className='h-52' src="images/thirdp4.svg" alt="error" />
                         <div className='ml-3' >
                         <p className='bg-gray-200 p-1 '>Partners</p>
                         <p className='font-bold p-1 pb-1 text-lg w-60 pt-3'>You are a cleaning or facilities company ?</p>
